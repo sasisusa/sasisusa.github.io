@@ -1,0 +1,55 @@
+/* <![CDATA[ */
+
+html, body
+{
+    margin: 0;
+    padding: 0;
+    font: 100.01% sans-serif;
+}
+
+#show_calc
+{
+    margin-left: 2em;   
+}
+
+a.home
+{
+    color: #000000;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    border-color: #000000;
+    border-radius: 0 0 25px 0;
+    border-width: thin;
+    border-left-width: 0;
+    border-top-width: 0;
+    border-style: solid;
+    display: inline-block;
+    outline: none;
+    text-decoration: none;  
+    padding: 0;  
+}
+a.home:hover, a.home:focus
+{
+    background-color: #000000;   
+    color: #FFFFFF;
+}
+
+#con_main
+{
+    border-width: thin;
+    border-color: #000000;
+    border-radius: 25px 0 0 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-style: solid;
+    padding: 20px;
+}
+
+#con_main p
+{
+    padding-left: 30px;
+}
+
+/* ]]> */
+
